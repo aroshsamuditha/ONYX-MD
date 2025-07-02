@@ -1,5 +1,26 @@
 {
   "resume": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-  "A/L Biology Past Paper 2020 Sinhala Medium": "https://pastpapers.wiki/download/7820/gce-a-l/28275/2020-sinhala.pdf",
+  
+  "A/L Biology": "https://pastpapers.wiki/download/7820/gce-a-l/28275/2020-sinhala.pdf",
+  "A/L Biology tamil": "https://pastpapers.wiki/download/7820/gce-a-l/28468/2020-tamil.pdf",
+  "A/L Biology english": "https://pastpapers.wiki/download/7820/gce-a-l/28386/2020-english.pdf",
+  "A/L Biology marking": "https://pastpapers.wiki/download/10405/sinhala/19955/2020-a-l-biology-marking-scheme-sinhala-medium.pdf",
+
+  "A/L Physics": "https://pastpapers.wiki/download/7820/gce-a-l/28816/general-certificate-of-education-advanced-level-examination-2020-august-new-syllabus-physics.pdf",
+  
+
+  "A/L chemistry": "https://downloads.pastpapers.wiki/download/26/2020-a-l-past-papers/224/general-certificate-of-education-advanced-level-examination-2020-august-new-syllabus-chemistry.pdf?_gl=1*1wjvqan*_ga*MTU0MzY0NTY1MC4xNzUxNDcxODQx*_ga_85LZRKQ6BP*czE3NTE0ODY5MDQkbzIkZzEkdDE3NTE0ODgxNTMkajQ0JGwwJGgw",
+ 
+  "A/L Combined Mathematics": "https://downloads.pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=26&wpfd_file_id=239&_gl=1*caimmn*_ga*MTU0MzY0NTY1MC4xNzUxNDcxODQx*_ga_85LZRKQ6BP*czE3NTE0ODY5MDQkbzIkZzEkdDE3NTE0ODg0NTYkajYwJGwwJGgw",
+  "A/L Combined Mathematics": "https://pastpapers.wiki/download/22691/2014-a-l/61789/2014-a-l-combined-mathematics-past-paper-sinhala-medium.pdf",
+
+  "A/L Agri": "https://downloads.pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=26&wpfd_file_id=243&_gl=1*1tdda5q*_ga*MTU0MzY0NTY1MC4xNzUxNDcxODQx*_ga_85LZRKQ6BP*czE3NTE0ODY5MDQkbzIkZzEkdDE3NTE0ODg4OTIkajYwJGwwJGgw",
+
+  "A/L Economics": "https://pastpapers.wiki/download/7820/gce-a-l/30515/general-certificate-of-education-advanced-level-examination-2020-august-new-syllabus-economics.pdf",
+  
+  "A/L Accounting": "https://github.com/aroshsamuditha/ONYX-MEDIA/blob/main/pdf%20paper/physics/2020%20AL%20Accounting%20Past%20Paper%20%20Sinhala%20Medium.pdf",
+
+  "A/L Business studies": "https://github.com/aroshsamuditha/ONYX-MEDIA/blob/main/pdf%20paper/physics/business%20studies%20%20Past%20Paper.pdf",
+  
   "manual": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf"
 } 
