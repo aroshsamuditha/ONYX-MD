@@ -18,4 +18,10 @@ module.exports = {
   AUTO_REPLY: process.env.AUTO_REPLY || "true",
   GEMINI_API_KEY: process.env.GEMINI_API_KEY || "Gemini API Key",
   MOVIE_API_KEY: process.env.MOVIE_API_KEY || "Move API Key", //https://api.skymansion.site/movies-dl/
+
+  //----------------------------------------------------------------------------------------------------------------------------
+
+
+
+  UNSPLASH_API_KEY: process.env.UNSPLASH_API_KEY || "h4UhXySIM89Z4L5xB6ie9Po2oRt-PUqQM9fbjQl4Rd8", // Add your Unsplash API key here for better image generation
 };
