@@ -2,11 +2,12 @@ const fs = require('fs');
 const path = require('path');
 const { cmd } = require('../command');
 
-// Auto owner react
+// Auto owner react in groups only
 cmd({
   on: "body"
 },
-async (robin, mek, m, { from, senderNumber }) => {
+async (robin, mek, m, { from, senderNumber, isGroup }) => {
+    if (!isGroup) return; // Only react in groups
     const filePath = path.join(__dirname, '../data/ownerreact.json');
     if (!fs.existsSync(filePath)) return;
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
