@@ -28,7 +28,7 @@ async (robin, mek, m, { from, body }) => {
                     document: buffer,
                     mimetype: 'application/pdf',
                     fileName: url.split("/").pop() || 'file.pdf',
-                    caption: `*PDF from:* ${url}`,
+                    caption: `*PDF from:🌀ONYX MD🔥DATABASE*`,
                   },
                   { quoted: mek }
                 );
