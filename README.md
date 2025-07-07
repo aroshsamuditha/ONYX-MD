@@ -17,7 +17,7 @@
 
 ---
 ### GET SESSION ID:
-**[SESSION ID 🔗](https://replit.com/@aroshasamuditha/ONYX-PIER-CODE)**
+**[SESSION ID 🔗](https://f9086c0b-5ac8-4ec3-b6f4-5e15e036d804-00-1ligfvazpgf57.spock.replit.dev/)**
 
 ### CREATE MEGA ACCOUNT:
 **[MEGA 📁](https://mega.io/)**
