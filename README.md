@@ -17,7 +17,7 @@
 
 ---
 ### GET SESSION ID:
-**[SESSION ID 🔗](https://f9086c0b-5ac8-4ec3-b6f4-5e15e036d804-00-1ligfvazpgf57.spock.replit.dev/)**
+**[SESSION ID 🔗](https://06800873-907f-415c-955a-edeab5248419-00-3muufsfkbmda8.kirk.replit.dev/)**
 
 ### CREATE MEGA ACCOUNT:
 **[MEGA 📁](https://mega.io/)**
